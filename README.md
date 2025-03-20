@@ -1,2 +1,3 @@
 # node_veterinaria
-backend que registre las horas de atención en una veterinaria
+
+V 1.0 Backend que registra las horas de atención en una veterinaria
